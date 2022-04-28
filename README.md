@@ -1,5 +1,8 @@
 # First Order AC-Unification
-A formalisation of first-order AC-unification in PVS.  
+The formalisation of first-order AC-unification in PVS as presented in the paper "A Certified Algorithm for AC-Unification". 
+
+OBS: In this repository we don't have the proof of how to remove hypothesis $\delta \subseteq V$ from the proof of completeness. 
+However, the formalisation along with this proof can be found [here](https://github.com/gabriel951/first_order_ac_unification).
 
 ## Highlights 
 
