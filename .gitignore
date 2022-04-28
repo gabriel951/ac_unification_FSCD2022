@@ -1,0 +1,11 @@
+# ignore pvsbin
+pvsbin/
+PVSBIN/
+
+# ignore files .pvs~
+*~
+old_equality.pvs
+old_equality.prf
+
+# ignore folder names
+names/
